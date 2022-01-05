@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfa3C5AAe20fb5df16c723614308E70478F28A3E4",
+  "SCAN_LINK": "https://etherscan.io/address/0xfa3c5aae20fb5df16c723614308e70478f28a3e4",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "RapHaus",
+  "SYMBOL": "RH",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/RapHaus",
+  "SHOW_BACKGROUND": true
+}
